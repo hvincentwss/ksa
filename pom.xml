@@ -238,18 +238,6 @@
 	</build>
 	
 	<modules>
-		<module>ksa-debug</module>	<!-- 正式环境移除 -->
 		<module>ksa-core</module>
-		
-		<!-- dao 层 -->
-		<module>ksa-dao-context</module>
-		<module>ksa-dao-root</module>
-		
-		<!-- service 层 -->
-		<module>ksa-service-root</module>
-		
-		<!-- web 层 -->
-		<module>ksa-web-core</module>
-		<module>ksa-web-root</module>
 	</modules>
 </project>
